@@ -8,9 +8,9 @@ A modern and responsive **Quote Generator Web App** built using **HTML5, CSS3, a
 
 🚀 **View the live project here:**
 
-### 🔗 https://prashantt05.github.io/synent-task4-Quote-Generator-prashant/
+### 🔗 https://prashantt05.github.io/synent-task6-API-Integration-Project_QuotesApp-prashant/
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Project-667EEA?style=for-the-badge)](https://prashantt05.github.io/synent-task4-Quote-Generator-prashant/)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Project-667EEA?style=for-the-badge)]https://prashantt05.github.io/synent-task6-API-Integration-Project_QuotesApp-prashant/
 
 ---
 
@@ -142,7 +142,7 @@ This project is licensed under the **MIT License**.
 ### 📫 Connect with Me
 
 - **GitHub:** https://github.com/prashantt05
-- **LinkedIn:** https://linkedin.com/in/prashant-rajput
+- **LinkedIn:** https://www.linkedin.com/in/prashant-rajput-838291329/
 - **Email:** prashantt9405@gmail.com
 
 ---
