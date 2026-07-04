@@ -10,10 +10,9 @@ A modern and responsive **Quote Generator Web App** built using **HTML5, CSS3, a
 
 ### 🔗 https://prashantt05.github.io/synent-task6-API-Integration-Project_QuotesApp-prashant/
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Project-667EEA?style=for-the-badge)]https://prashantt05.github.io/synent-task6-API-Integration-Project_QuotesApp-prashant/
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Project-667EEA?style=for-the-badge)](https://prashantt05.github.io/synent-task6-API-Integration-Project_QuotesApp-prashant/)
 
 ---
-
 # 📸 Project Preview
 
 ![Quote Generator](assets/preview.png)
